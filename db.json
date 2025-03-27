@@ -1,381 +1,90 @@
-{
-  "berita terkini": [
-    {
-      "userId": 1,
-      "id": 1,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    }
-  ],
-
-  "pengumuman terkini": [
-    {
-      "userId": 1,
-      "id": 1,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    }
-  ],
-
-  "berita all": [
-    {
-      "userId": 1,
-      "id": 1,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    },
-    {
-      "userId": 1,
-      "id": 4,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "eum et est occaecati",
-      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "nesciunt quas odio",
-      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-    },
-    {
-      "userId": 1,
-      "id": 6,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "dolorem eum magni eos aperiam quia",
-      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-    },
-    {
-      "userId": 1,
-      "id": 7,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "magnam facilis autem",
-      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-    },
-    {
-      "userId": 1,
-      "id": 8,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "dolorem dolore est ipsam",
-      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-    },
-    {
-      "userId": 1,
-      "id": 9,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "nesciunt iure omnis dolorem tempora et accusantium",
-      "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-    },
-    {
-      "userId": 1,
-      "id": 10,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "optio molestias id quia eum",
-      "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-    },
-    {
-      "userId": 1,
-      "id": 11,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "et ea vero quia laudantium autem",
-      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
-    },
-    {
-      "userId": 1,
-      "id": 12,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "in quibusdam tempore odit est dolorem",
-      "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
-    },
-    {
-      "userId": 2,
-      "id": 13,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "dolorum ut in voluptas mollitia et saepe quo animi",
-      "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
-    },
-    {
-      "userId": 2,
-      "id": 14,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "voluptatem eligendi optio",
-      "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum"
-    },
-    {
-      "userId": 2,
-      "id": 15,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "eveniet quod temporibus",
-      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
-    },
-    {
-      "userId": 2,
-      "id": 16,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
-      "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
-    },
-    {
-      "userId": 2,
-      "id": 17,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "fugit voluptas sed molestias voluptatem provident",
-      "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
-    },
-    {
-      "userId": 2,
-      "id": 18,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "voluptate et itaque vero tempora molestiae",
-      "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
-    },
-    {
-      "userId": 2,
-      "id": 19,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "adipisci placeat illum aut reiciendis qui",
-      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
-    },
-    {
-      "userId": 2,
-      "id": 20,
-      "gambar": "hero.png",
-      "tanggal": "1 Maret 2025",
-      "title": "doloribus ad provident suscipit at",
-      "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
-    }
-  ],
-
-  "pengumuman all": [
-    {
-      "userId": 1,
-      "id": 1,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-    },
-    {
-      "userId": 1,
-      "id": 2,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-    },
-    {
-      "userId": 1,
-      "id": 3,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-    },
-    {
-      "userId": 1,
-      "id": 4,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "eum et est occaecati",
-      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "nesciunt quas odio",
-      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
-    },
-    {
-      "userId": 1,
-      "id": 6,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "dolorem eum magni eos aperiam quia",
-      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
-    },
-    {
-      "userId": 1,
-      "id": 7,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "magnam facilis autem",
-      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
-    },
-    {
-      "userId": 1,
-      "id": 8,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "dolorem dolore est ipsam",
-      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-    },
-    {
-      "userId": 1,
-      "id": 9,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "nesciunt iure omnis dolorem tempora et accusantium",
-      "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
-    },
-    {
-      "userId": 1,
-      "id": 10,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "optio molestias id quia eum",
-      "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
-    },
-    {
-      "userId": 1,
-      "id": 11,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "et ea vero quia laudantium autem",
-      "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi"
-    },
-    {
-      "userId": 1,
-      "id": 12,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "in quibusdam tempore odit est dolorem",
-      "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio"
-    },
-    {
-      "userId": 2,
-      "id": 13,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "dolorum ut in voluptas mollitia et saepe quo animi",
-      "body": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam"
-    },
-    {
-      "userId": 2,
-      "id": 14,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "voluptatem eligendi optio",
-      "body": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum"
-    },
-    {
-      "userId": 2,
-      "id": 15,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "eveniet quod temporibus",
-      "body": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae"
-    },
-    {
-      "userId": 2,
-      "id": 16,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
-      "body": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta"
-    },
-    {
-      "userId": 2,
-      "id": 17,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "fugit voluptas sed molestias voluptatem provident",
-      "body": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo"
-    },
-    {
-      "userId": 2,
-      "id": 18,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "voluptate et itaque vero tempora molestiae",
-      "body": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam"
-    },
-    {
-      "userId": 2,
-      "id": 19,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "adipisci placeat illum aut reiciendis qui",
-      "body": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas"
-    },
-    {
-      "userId": 2,
-      "id": 20,
-      "gambar": "hero.png",
-      "tanggal": "21 Maret 2025",
-      "title": "doloribus ad provident suscipit at",
-      "body": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo"
-    }
-  ]
-}
+[
+  {
+    "createdAt": "2025-03-26T03:23:01.738Z",
+    "title": "Repellat ver aestivus acidus in.\nVapulus ago consuasor stips eaque cupressus condico tonsor vestrum absconditus.\nA adicio summa ater.\nTutamen cilicium carus degenero vetus alioqui.\nDamno succedo vicissitudo terga acervus hic decimus creator cresco anser.",
+    "body": "Possimus adaugeo spiculum damno aperte tabella patrocinor vinum verus. Socius tollo civis aliqua velit ustulo adiuvo cursus balbus valetudo. Carus animadverto cotidie cruciamentum.\nVerto explicabo aut crepusculum. Adipiscor certe balbus compono. Ultio curriculum vitae ad dolorum votum vergo clementia amita doloribus.\nVirgo tutamen cervus sed omnis. Subiungo trepide beneficium subito dolores antepono. Culpo vindico tantum.",
+    "image": "https://picsum.photos/seed/ZLeOB5/865/2183?grayscale&blur=10",
+    "by": "Brady",
+    "id": "1"
+  },
+  {
+    "createdAt": "2025-03-26T01:27:56.767Z",
+    "title": "Comminor dolore aduro acsi consequuntur.\nAscisco audio abutor cinis color iure coniecto magni.\nPecto volva vulnero corrigo facere ratione contabesco usus.\nDefaeco synagoga velociter minus coniuratio cohors.",
+    "body": "Deserunt denuo aedificium subseco abduco tricesimus conculco tutis patrocinor dignissimos. Non atrox error. Admoveo thorax complectus ustulo aperiam animadverto vix defleo.\nCura capitulus vicinus. Asperiores adsum aeneus calamitas usus. Mollitia praesentium debilito delectatio.\nTamisium reiciendis crebro videlicet infit vester. Vapulus sol repellat theatrum. Custodia vitiosus decimus tot alter exercitationem adfectus in adamo.",
+    "image": "https://picsum.photos/seed/TfagZP/2848/2272?grayscale&blur=10",
+    "by": "Andreane",
+    "id": "2"
+  },
+  {
+    "createdAt": "2025-03-25T16:11:07.340Z",
+    "title": "Clarus acerbitas clam tepidus aeneus decet verbum cometes quaerat taedium.\nDolores ustulo ascisco verto perspiciatis bardus caute curto suffragium nostrum.\nTres suppellex aer odit pariatur certus.\nAlias quam asperiores vulnus ipsum patruus arca sto.\nArcus hic absorbeo caritas consequuntur paulatim bestia aut.",
+    "body": "Campana sopor defungo auxilium vetus nemo. Concedo sapiente talus delinquo impedit pectus umquam animi. Vix supplanto tui censura.\nAcerbitas suus sodalitas amissio asper tabella. Apud crepusculum cunctatio theca subnecto ante calamitas sperno tantillus admiratio. Reiciendis suppellex tactus.\nAscisco subito angustus deprecator. Vitiosus thalassinus minus velit viscus alo circumvenio voro capillus. Admitto approbo coniuratio contego delego vel tristis amor.",
+    "image": "https://picsum.photos/seed/IfapNgk/291/2623?blur=7",
+    "by": "Anita",
+    "id": "3"
+  },
+  {
+    "createdAt": "2025-03-26T08:05:39.203Z",
+    "title": "Theologus atrocitas antiquus.",
+    "body": "Bellicus armarium cimentarius. Cimentarius patruus incidunt demergo conitor cruciamentum vitium veritatis. Terebro vero comptus theca tempora tam tonsor adduco adstringo cultura.\nSopor apparatus cometes aro. Amaritudo arca claustrum conforto brevis adimpleo creta velut. Aufero consequuntur conatus tribuo consectetur decens.\nDolores triduana solio velit vomica summopere super. Tabesco xiphias canonicus rerum inflammatio turbo. Quae ager vetus demulceo ait vacuus urbs supra vicinus attollo.",
+    "image": "https://picsum.photos/seed/oPuExF6H0/1759/1228?blur=10",
+    "by": "Thea",
+    "id": "4"
+  },
+  {
+    "createdAt": "2025-03-25T11:02:20.625Z",
+    "title": "Cubo voluptatum bene tantillus pauci ipsum cruentus.\nEsse verbera solum terreo.\nCui volup decretum spectaculum suffragium caritas solvo tener umbra voluptas.\nAdhaero coruscus spectaculum deserunt creo adversus campana cometes ante apostolus.",
+    "body": "Sursum patruus ultra crinis defendo triumphus atqui brevis stultus colo. Cornu conor casus xiphias sperno testimonium hic. Curso teres sponte virtus tabella aqua adipiscor clamo bellum tepesco.\nCareo cicuta sol aperio. Vae placeat vesica a turba. Tendo dolorum pectus aeneus antea benevolentia turba adfectus voluptatibus tres.\nAtqui aestivus stips. Ver adversus vinum repellendus. Audax tersus quo tantillus deleniti brevis aggero ipsa coadunatio.",
+    "image": "https://picsum.photos/seed/nEx65w/1595/3096?blur=7",
+    "by": "Bobbie",
+    "id": "5"
+  },
+  {
+    "createdAt": "2025-03-26T08:04:25.777Z",
+    "title": "Ventus assumenda crux vae sopor cedo vilicus caries.\nCivitas dedico triduana colo cerno corona articulus quia dolorum quo.\nCaute currus clam dolores.",
+    "body": "Quaerat calculus vulariter comedo barba. Demitto sursum coerceo ventus clibanus. Decipio coma victoria vester approbo.\nVester alo deficio stella ago coepi laborum. Sumo aqua antiquus carbo cubitum terebro rerum speculum animi ara. Utrum aegre accendo atrox cibus aedificium voluptate praesentium.\nComminor video una sufficio vallum. Tantum crebro cruciamentum vetus debilito carpo deprecator coruscus torqueo. Exercitationem agnitio dolorum victoria.",
+    "image": "https://picsum.photos/seed/9AQXfxly/181/2771?blur=2",
+    "by": "Filiberto",
+    "id": "6"
+  },
+  {
+    "createdAt": "2025-03-26T05:46:22.002Z",
+    "title": "Admoneo alius amplexus carmen.\nCapillus aut aureus casso temeritas.\nSono suadeo volup sub soluta sollicito apto.\nVere defleo vinitor.\nFacilis tot causa quidem aduro volutabrum synagoga.",
+    "body": "Ciminatio tabella timor candidus perspiciatis cursim non adnuo timor desparatus. Spectaculum temptatio volubilis credo corrumpo error bibo solium laboriosam aveho. Aureus cavus concido tactus barba.\nAuctus sol eveniet. Consequatur depereo itaque soleo cubicularis acquiro aureus acerbitas theologus cursim. Laboriosam possimus eius aegrotatio.\nCursim thema dignissimos reiciendis. Adsidue creator defleo ventosus velit. Conor desolo urbs chirographum solutio arcesso strenuus infit tabula.",
+    "image": "https://picsum.photos/seed/Hyuza8/3564/1484?blur=5",
+    "by": "Eula",
+    "id": "7"
+  },
+  {
+    "createdAt": "2025-03-25T23:48:22.865Z",
+    "title": "Thesis vinco surculus placeat veniam.\nSub concido tracto tamdiu.",
+    "body": "Ante caelum voluptatibus quisquam somniculosus artificiose adhaero acidus. Tego delibero strenuus. Suadeo ventito curiositas.\nBlanditiis textilis argumentum. Convoco suscipio distinctio. Veritas tactus veritas.\nConservo comitatus earum demulceo ver desidero suscipio ipsum. Cribro asper conscendo censura sapiente cibo incidunt mollitia apud tempora. Consuasor officiis suggero tabella testimonium.",
+    "image": "https://picsum.photos/seed/SCyGuMFCq6/1174/2783?blur=2",
+    "by": "Leann",
+    "id": "8"
+  },
+  {
+    "createdAt": "2025-03-25T20:28:36.949Z",
+    "title": "Ratione auditor vir.\nCreptio depopulo sortitus adipiscor hic ultio verbum solus asper talus.\nReprehenderit tabula spoliatio collum cernuus.",
+    "body": "Soleo cado ambulo vetus dolorum suggero modi quisquam eius baiulus. Calculus aureus sperno quaerat damno voluptates conservo audeo demonstro suffragium. Assentator virgo curto confido stultus.\nUllam curatio speciosus vae accusantium strenuus quae. Vehemens autus crinis tabella demens abscido dolores. Soluta uredo spiritus vorax ad curiositas utrimque vinum ipsa.\nTurpis eligendi uterque suffragium audio sono. Terreo peior cruciamentum spargo degusto quidem deleniti tabgo. Voluptate tamen corona.",
+    "image": "https://picsum.photos/seed/2VyGvUTwsH/117/3374?blur=6",
+    "by": "Cristal",
+    "id": "9"
+  },
+  {
+    "createdAt": "2025-03-26T07:16:44.291Z",
+    "title": "Solum ait laboriosam concedo volva sollers undique aestas.\nCito civitas alter harum carmen vestrum ascisco concido.\nTermes abundans uredo auditor deprimo dolor umbra cogito.\nConturbo uter dicta sumptus molestiae.",
+    "body": "Ubi solutio tabella volup omnis suffragium coruscus aiunt eius. Ocer deorsum certus suus pauci ancilla ultio tero barba. Solvo sapiente censura.\nAllatus corporis sordeo pecto delinquo. Appositus excepturi suffragium templum. Crustulum vulariter nihil arcus debitis vergo adsuesco.\nVoluptatem turpis vigor texo. Absens creta careo vere. Copia cursus thorax incidunt alienus.",
+    "image": "https://picsum.photos/seed/fJGMy1rda/1508/3673?grayscale&blur=7",
+    "by": "Nicklaus",
+    "id": "10"
+  },
+  {
+    "createdAt": "2025-03-25T22:45:41.007Z",
+    "title": "Terra audeo suscipit iure.\nVereor custodia cognomen verecundia pecto decens viriliter vociferor totam civitas.\nLaborum omnis conspergo stipes adduco bos.\nVictus perferendis urbs supplanto quis tergiversatio ipsum cras tertius dolores.\nVereor ultra aedificium coniuratio victoria cariosus turba sol super adinventitias.",
+    "body": "Conturbo tertius amiculum venia. Denuncio adaugeo eius. Complectus sono crux curis arbitro vociferor calcar abbas.\nVigilo creo cum centum viscus cavus cimentarius. Coaegresco supellex timidus tener ventosus derelinquo venia. Spoliatio vero clementia strenuus.\nCanis catena sortitus cernuus. Nemo aptus ademptio suggero tabella utor recusandae demo catena voro. Capitulus tabula crudelis spiritus vester.",
+    "image": "https://picsum.photos/seed/1savOdqQ/2725/1791?grayscale&blur=1",
+    "by": "King",
+    "id": "11"
+  }
+]
